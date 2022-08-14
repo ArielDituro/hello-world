@@ -1,2 +1,5 @@
 # hello-world
-my firts repo in GitHub
+
+my firts repo on GitHub
+
+i love :coffee: and go :bike:
